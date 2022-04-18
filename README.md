@@ -4,7 +4,7 @@
 - 👨🏽‍💻 Atualmente trabalho de suporte de TI(CPD) no grupo CFN, conjunto de lojas de ferragens em Niterói.
 - 🔭 Cursando o 5º período de Tecnologia em Sistemas de Computação - UFF, com expectativa de formação em Julho de 2023.
 - ⚡ No meu tempo livre estou aprendendo a tocar teclado, pratico crossfit, trilhas e vôlei sempre que possível.
-- 📍 Rio de Janeiro, Brasil.
+- 📍  Rio de Janeiro, Brasil.
 - 😄 Pronomes: Ele/Dele.
 
 <div align="center">
