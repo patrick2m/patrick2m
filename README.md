@@ -1,7 +1,7 @@
 ## Olá, me chamo Patrick ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 👨🏽‍💻 Atualmente trabalho de suporte de TI(CPD) no grupo CFN, conjunto de lojas de ferragens em Niterói.
+- 👨🏽‍💻 Atualmente trabalho de suporte de TI(Nuvem Privada) no grupo CFN, conjunto de lojas de ferragens em Niterói.
 - 🔭 5º período de Tecnologia em Sistemas de Computação - UFF.
 - ⚡ No meu tempo livre estou aprendendo a tocar teclado, pratico crossfit, trilhas e vôlei sempre que possível.
 - 📍  Rio de Janeiro, Brasil.
