@@ -1,12 +1,12 @@
-## Olá, me chamo Patrick ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Hello, you can call me Patrick ! 
+### Welcome to my Github profile 👋
 
-- 👨🏽‍💻 Atualmente trabalho como auxiliar de TI(CPD) no grupo CFN, conjunto de lojas de ferragens em Niterói/RJ.
-- 🔭 6º período de Tecnologia em Sistemas de Computação - UFF ( EAD ).
-- ⚡ No meu tempo livre estou aprendendo a tocar teclado, pratico crossfit, trilhas e vôlei sempre que possível.
-- 📍 Rio de Janeiro, Brasil.
-- 😄 Pronomes: Ele/Dele.
-- 🚀 Focando em Front-End, rumo ao Fullstack.
+- 👨🏽‍💻 Current working as IT Assistant at CFN Group, a group of utensil and tool stores located at Niterói/RJ - Brazil.
+- 🔭 6º semester of online Computer System college, at Universidade Federal Fluminese - UFF ( EAD ).
+- ⚡ I use my spare time to learn keyboard, do crossfit, hike and play volleyball.
+- 📍 Rio de Janeiro, Brazil.
+- 😄 Pronoums: He/HisEle/Dele.
+- 🚀 Focused on Front-End, on my way to Fullstack.
 
 
 <div align="center">
@@ -18,7 +18,7 @@
 ![Snake animation](https://github.com/patrick2m/patrick2m/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"><br>
-  <h2> Estudando/Utilizando 🚀 </h2>
+  <h2> Studying 🚀 </h2>
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
