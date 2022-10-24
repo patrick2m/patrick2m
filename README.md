@@ -31,6 +31,7 @@
 
   <br>
 </div>
+![](https://komarev.com/ghpvc/?username=patrick2m)
 
   <br>
 
@@ -40,7 +41,9 @@
   <a href = "mailto:pmm12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick2m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=patrick2m&label=Profile%20views&color=ff00d0&style=flat" alt="emilyjuly" /> </p>
+
 <!--
 **patrick2m/patrick2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
