@@ -34,7 +34,7 @@
 
   <br>
 </div>
-![](https://komarev.com/ghpvc/?username=patrick2m)
+
 
   <br>
 
