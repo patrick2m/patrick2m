@@ -7,7 +7,7 @@
 - 👨🏽‍💻 Current working as IT Assistant at CFN Group, a group of utensil and tool stores located at Niterói/RJ - Brazil.
 - 🔭 6º semester of online Computer System college, at Universidade Federal Fluminese - UFF ( EAD ).
 - ⚡ I use my spare time to learn keyboard, do crossfit, hike and play volleyball.
-- 📍 Rio de Janeiro, Brazil.
+- 📍  Rio de Janeiro, Brazil.
 - 😄 Pronoums: He/Him ou Ele/Dele.
 - 🚀 Focused on Front-End, on my way to Fullstack.
 
