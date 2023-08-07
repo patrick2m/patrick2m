@@ -4,7 +4,8 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 👨🏽‍💻 Current working as FullStack Developer at Pollvo team of RSM Brasil, a powerful Network of audit, tax and consulting experts with offices all over the world.
+- 👨🏽‍💻 Current working as FullStack Developer at Pollvo (https://www.pollvo.com/) team.
+- 🏢 At the IT team of RSM Brasil, a powerful Network of audit, tax and consulting experts with offices all over the world.
 - 🔭 8º semester of online Computer System college, at Universidade Federal Fluminese - UFF (EAD).
 - ⚡ I use my spare time to learn keyboard, do crossfit, hike and play volleyball.
 - 📍 Rio de Janeiro, Brazil.
