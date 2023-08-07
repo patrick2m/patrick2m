@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick2m&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-![Snake animation](https://github.com/patrick2m/patrick2m/blob/output/github-contribution-grid-snake.svg)
+/*![Snake animation](https://github.com/patrick2m/patrick2m/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"><br>
   <h2> Studying 🚀 </h2>
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/patrick2m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=patrick2m&label=Profile%20views&color=ff00d0&style=flat" alt="Patrick2m" /> </p>
 <!--
 **patrick2m/patrick2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
