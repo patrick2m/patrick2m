@@ -6,12 +6,11 @@
 
 - 👨🏽‍💻 Currently working as FullStack Developer at <a target="_blank" rel="noopener noreferrer" href="https://www.pollvo.com/">Pollvo</a> team.
 - 🏢 At the IT team of RSM Brasil, a powerful Network of audit, tax and consulting experts with offices all over the world.
-- 🔭 8º semester of online Computer System college, at Universidade Federal Fluminese - UFF (EAD).
+- 🔭 Graduated on Computer System College, at Universidade Federal Fluminese - UFF.
 - ⚡ I use my spare time to learn keyboard, do crossfit, hike and play volleyball.
 - 📍 Rio de Janeiro, Brazil.
 - 😄 Pronoums: He/Him ou Ele/Dele.
-- 🚀 FullStacking with C#, ReactJs and AngularJS.
-
+- 🚀 FullStacking with C#, ReactTs and AngularJS.
 
 <div align="center">
   <a href="https://github.com/patrick2m">
@@ -35,14 +34,9 @@
   <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-          
   <br>
 </div>
-
-
   <br>
-
-  
 <div>
   <a href="https://www.instagram.com/patrick.mac/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pmm12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
