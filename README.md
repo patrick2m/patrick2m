@@ -1,13 +1,13 @@
 ## Hello, you can call me Patrick ! 
 ### Welcome to my Github profile 👋
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Development!;Always%20learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 - 👨🏽‍💻 Currently working as FullStack Developer at <a target="_blank" rel="noopener noreferrer" href="https://www.pollvo.com/">Pollvo</a> team.
 - 🏢 At the IT team of RSM Brasil, a powerful Network of audit, tax and consulting experts with offices all over the world.
 - 🔭 Graduated on Computer System College, at Universidade Federal Fluminese - UFF.
-- ⚡ I use my spare time to learn keyboard, do crossfit, hike and play volleyball.
+- ⚡ I use my spare time to learn keyboard, do crossfit, motorcycle trips and play volleyball.
 - 📍 Rio de Janeiro, Brazil.
 - 😄 Pronoums: He/Him ou Ele/Dele.
 - 🚀 FullStacking with C#, ReactTs and AngularJS.
